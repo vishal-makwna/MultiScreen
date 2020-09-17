@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Malt screen</string>
+    <string name="Head">Krishna restaurant</string>
+    <string name="item1">Item1</string>
+    <string name="item2">Item2</string>
+    <string name="item3">Item3</string>
+    <string name="button">Place Order</string>
+</resources>
